@@ -21,3 +21,4 @@ const handleInputChange = () => {
 
 addTaskButton.addEventListener("click", () => handleAddTask());
  
+inputElement.addEventListener('change', () => handleInputChange());
