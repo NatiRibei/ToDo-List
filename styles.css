@@ -1,6 +1,6 @@
 * {
     margin: 0;
-    padding: 0;
+    padding: 10;
     box-sizing: border-box;
     font-family: 'Poppins', sans-serif;
 }
@@ -19,7 +19,7 @@ body {
 
 .container {
     border: 2px solid #fff;
-    padding: 30px, 40px;
+    padding: 30px 40px;
     width: 40%;
     min-width:500px;
 }
