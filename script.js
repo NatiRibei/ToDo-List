@@ -9,8 +9,17 @@ const handleAddTask = () => {
     if (!inputIsValid) {
         return inputElement.classList.add("error");
     }
-};
 
+
+    const taskItemContainer = document.createElement('div');
+    taskItemContainer.classList.add('task-item');
+
+    const taskContent = document.createElement('p');
+
+    taskContent.innerText = inputElement.value;
+
+};
+    
 const handleInputChange = () => {
     const inputIsValid = validadeInput ();
 
