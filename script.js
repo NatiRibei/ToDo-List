@@ -11,10 +11,10 @@ const handleAddTask = () => {
     }
 
 
-    const taskItemContainer = document.createElement('div');
-    taskItemContainer.classList.add('task-item');
+    const taskItemContainer = document.createElement("div");
+    taskItemContainer.classList.add("task-item")
 
-    const taskContent = document.createElement('p');
+    const taskContent = document.createElement("p");
 
     taskContent.innerText = inputElement.value;
 
@@ -30,4 +30,4 @@ const handleInputChange = () => {
 
 addTaskButton.addEventListener("click", () => handleAddTask());
  
-inputElement.addEventListener('change', () => handleInputChange());
+inputElement.addEventListener("change", () => handleInputChange());
