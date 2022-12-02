@@ -20,5 +20,7 @@ Meu objetivo foi aprofundar nos conceitos de CSS, onde trabalhei a estilização
 
 ![projetotoddo](https://user-images.githubusercontent.com/91141994/205315016-1bc116d5-534d-46de-93b2-45d62d74e2a0.gif)
 
-Para testar o projeto clique neste link: https://natiribei.github.io/ToDo-List/
-Vou adorar receber sua Issue! 
+
+
+Para testar o projeto clique <b><a href="https://natiribei.github.io/ToDo-List/">aqui</a></b> .
+<p><i>Vou adorar receber sua Issue!</i></p> 
