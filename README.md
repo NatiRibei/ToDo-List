@@ -1,4 +1,4 @@
-#TO DO LIST
+<h1 align="center">TO DO LIST</h1>
 <p align="center">
 <img src="https://img.shields.io/badge/JavaScript-ON-lightgrey"/>
 <img src="https://img.shields.io/badge/CSS-ON-blueviolet"/>
